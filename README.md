@@ -1,5 +1,6 @@
+
 ## 如何理解多语言国际化？
-  
+
 ![44444444444.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c07553a5d75a4a45bdaf5b302c91ea60~tplv-k3u1fbpfcp-watermark.image)
 
 图片中下拉部分已经清楚的说明了多语言国际化是什么了。
