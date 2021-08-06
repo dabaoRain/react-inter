@@ -220,7 +220,7 @@ export default withTranslation()(Home)
 
    https://www.i18next.com/
 
-   https://github.com/i18next/react-
+   https://github.com/i18next/react-i18next
    
    https://github.com/i18next/i18next
 
