@@ -1,0 +1,10 @@
+{
+  "home":{
+    "title":"首頁",
+    "content":"我是首頁"
+  },
+  "about":{
+    "title":"關於我們",
+    "content":"我是關於我們"
+  }
+}
